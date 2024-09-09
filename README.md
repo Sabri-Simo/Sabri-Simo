@@ -13,7 +13,7 @@ I'm a developer focused on **system programming** and **backend development**. I
 </p>
 
 ### 🌱 Current Focus
-- **System Programming:** Developing robust systems with **Rust**, **Go**, and **C++**
+- **System Programming:** Developing robust systems with **Go**,**Rust**, and **C++**
 - **Backend Development:** Building scalable backends and optimizing databases with **PostgreSQL**
 - **Continuous Learning:** Enhancing my skills in **Python** for rapid prototyping
 
