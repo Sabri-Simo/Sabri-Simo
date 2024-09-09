@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Sabri-Simo
+### I’m Sabri-Simo
 
 I'm a developer focused on **system programming** and **backend development**. I am always learning and improving my skills to build efficient and high-performance applications. My goal is to create scalable, reliable systems that solve real-world problems, whether it's through optimizing performance, reducing resource consumption, or tackling complex challenges.
 
