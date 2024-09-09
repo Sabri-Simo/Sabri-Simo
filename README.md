@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Sabri-Simo
 
-I'm a developer focused on **system programming** and **backend development**. I am always learning and improving my skills to build efficient and high-performance applications.
+I'm a developer focused on **system programming** and **backend development**. I am always learning and improving my skills to build efficient and high-performance applications. My goal is to create scalable, reliable systems that solve real-world problems, whether it's through optimizing performance, reducing resource consumption, or tackling complex challenges.
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain-wordmark.svg" alt="Rust" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -39,4 +39,3 @@ I'm a developer focused on **system programming** and **backend development**. I
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sabri-Simo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
