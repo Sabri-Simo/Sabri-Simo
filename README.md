@@ -34,4 +34,9 @@ I'm a developer focused on **system programming** and **backend development**. I
 
 ---
 
-**Fun Fact:** I love optimizing code for peak performance and minimal resource usage!
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabri-Simo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
