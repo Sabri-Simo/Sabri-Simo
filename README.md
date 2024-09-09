@@ -1,28 +1,37 @@
-## Tech Stack
+## 👋 Hi, I’m Sabri-Simo
 
-**Languages:**
+I'm a passionate developer focused on **system programming** and **backend development**. Constantly learning and improving, I strive to build efficient, high-performance applications.
 
-*  **Python (3.7.x)** - Fast prototyping and scripting
-*  **Rust** - High-performance, memory-safe systems programming
-*  **Go** - Efficient, concurrent backend development
-*  **C++** - Deep control for performance-critical applications
-
-**Databases:**
-
-*  **PostgreSQL** - Powerful and versatile relational database
-
-**Tools & Frameworks:** (Optional - Add specific tools you use)
-
-*  **...** - (e.g. Unit testing framework, linter)
-
-**Icons:**
-
-(Replace placeholders with actual badge links from shields.io)
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="**[Python Badge Link]**" alt="Python" />
-  <img src="**[Rust Badge Link]**" alt="Rust" />
-  <img src="**[Go Badge Link]**" alt="Go" />
-  <img src="**[PostgreSQL Badge Link]**" alt="PostgreSQL" />
-  <img src="**[C++ Badge Link]**" alt="C++" />
-  </p>
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### 🌱 Current Focus
+- **System Programming:** Building robust systems with **Rust**, **Go**, and **C++**
+- **Backend Development:** Creating scalable backends and optimizing databases using **PostgreSQL**
+- **Learning:** Continuously enhancing my skills in **Python** for rapid development and prototyping
+
+### 🌐 Languages
+- **English**: Native
+- **Arabic**:  Fluent
+- **French**:  Native
+
+### 🌍 Let's Connect
+<p align="center">
+  <a href="mailto:sabri.cloud.c@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Sabri-Simo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+**Fun Fact:** I love optimizing code to achieve peak performance while minimizing resource usage!
