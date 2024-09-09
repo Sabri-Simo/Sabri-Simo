@@ -1,39 +1,28 @@
-## 👋 Hi, I’m Sabri-Simo
+## Tech Stack
 
-- 👀 I’m interested in building high-performance backends and exploring the latest tech.
-- 🌱 I’m currently learning **Rust**, **Go**, and **C++** for system-level programming, and **Python** for fast prototyping.
-- 💞️ I’m looking to collaborate on open-source projects involving **backend development** and **databases** like **PostgreSQL**.
-- 📫 How to reach me: [sabri.cloud.c@gmail.com](mailto:sabri.cloud.c@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love optimizing code to run faster and use fewer resources!
+**Languages:**
 
----
+*  **Python (3.7.x)** - Fast prototyping and scripting
+*  **Rust** - High-performance, memory-safe systems programming
+*  **Go** - Efficient, concurrent backend development
+*  **C++** - Deep control for performance-critical applications
 
-### 🛠️ Tech Stack
+**Databases:**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
+*  **PostgreSQL** - Powerful and versatile relational database
 
-### 🌐 Let's Connect
-<p align="center">
-  <a href="mailto:sabri.cloud.c@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Sabri-Simo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+**Tools & Frameworks:** (Optional - Add specific tools you use)
 
----
+*  **...** - (e.g. Unit testing framework, linter)
 
-### 📈 GitHub Stats
+**Icons:**
+
+(Replace placeholders with actual badge links from shields.io)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabri-Simo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
+  <img src="**[Python Badge Link]**" alt="Python" />
+  <img src="**[Rust Badge Link]**" alt="Rust" />
+  <img src="**[Go Badge Link]**" alt="Go" />
+  <img src="**[PostgreSQL Badge Link]**" alt="PostgreSQL" />
+  <img src="**[C++ Badge Link]**" alt="C++" />
+  </p>
