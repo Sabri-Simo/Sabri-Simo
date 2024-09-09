@@ -5,11 +5,11 @@ I'm a developer focused on **system programming** and **backend development**. I
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain-wordmark.svg" alt="Rust" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
 ### 🌱 Current Focus
